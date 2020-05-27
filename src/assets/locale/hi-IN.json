@@ -1,0 +1,19 @@
+{
+    "navbar.images": "छवियाँ",
+    "navbar.contactMe": "संपर्क करें",
+    "navbar.harryPotter": "हैरी पॉटर",
+    "navbar.language": "भाषा",
+    "navbar.miscellaneous": "विविध",
+    "contactme.heading": "कोई भी प्रश्न है?",
+    "contactme.namePlaceholder": "अपना नाम दर्ज करें",
+    "contactme.emailPlaceholder": "तुम्हारा ईमेल क्या है?",
+    "contactme.queryPlaceholder": "आपके सवाल...",
+    "contactme.submitButton": "मेसेज भेजें",
+    "contactme.nameValidation.min": "नाम में न्यूनतम दो वर्ण होने चाहिए",
+    "contactme.nameValidation.max": "नाम पच्चीस वर्णों से छोटा होना चाहिए",
+    "contactme.nameValidation.required": "नाम आवश्यक है",
+    "contactme.emailValidation": "कृपया एक वैध ई - मेल एड्रेस डालें",
+    "contactme.emailValidation.required": "ईमेल पते की ज़रुरत है",
+    "contactme.queryValidation.min": "कृपया कम से कम 20 अक्षर दर्ज करें",
+    "contactme.queryValidation.required": "कृपया अपना प्रश्न दर्ज करें"
+}

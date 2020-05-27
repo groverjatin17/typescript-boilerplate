@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css?family=Great+Vibes|Raleway:300,400,600|Courgette&display=swap');
+
+.navbar {
+    width: 100%;
+    height: 55px;
+    vertical-align: middle;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #24292d;
+    .logo {
+        font-family: Great Vibes, cursive;
+        font-size: 34px;
+        top: 0px;
+        margin-left: 10px;
+        color: beige;
+        cursor: pointer;
+    }
+
+    & nav {
+        display: inline;
+    }
+
+    & ul {
+        margin: 0 10px 0 0;
+        & li {
+            display: inline;
+            padding: 10px;
+            font-weight: bold;
+            & a.active {
+                border-bottom: 3px solid white;
+                padding-bottom: 4px;
+            }
+            & .link {
+                color: beige;
+                font-size: medium;
+                outline: none;
+            }
+            & .link:hover {
+                opacity: 0.5;
+                border-bottom: 3px solid white;
+                padding-bottom: 4px;
+            }
+            & .link:focus {
+                border-bottom: 3px solid white;
+                padding-bottom: 4px;
+                outline: none;
+            }
+        }
+    }
+}

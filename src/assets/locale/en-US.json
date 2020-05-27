@@ -1,0 +1,19 @@
+{
+    "navbar.images": "Images",
+    "navbar.contactMe": "Contact Me",
+    "navbar.harryPotter": "HP7",
+    "navbar.language": "Language",
+    "navbar.miscellaneous": "Miscellaneous",
+    "contactme.heading": "Have any questions?",
+    "contactme.namePlaceholder": "Enter your Name",
+    "contactme.emailPlaceholder": "What's your email?",
+    "contactme.queryPlaceholder": "Your Questions...",
+    "contactme.submitButton": "Send Message",
+    "contactme.nameValidation.min": "Name should contain minimum of 2 characters",
+    "contactme.nameValidation.max": "Name should be shorter than 25 characters",
+    "contactme.nameValidation.required": "Name is required",
+    "contactme.emailValidation": "Please enter a valid Email Address",
+    "contactme.emailValidation.required": "Email address is required",
+    "contactme.queryValidation.min": "Please enter 20 characters atleast",
+    "contactme.queryValidation.required": "Please enter your Query"
+}
